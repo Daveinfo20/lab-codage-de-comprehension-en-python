@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: CollegeBoreal
+@author: Daveinfo20
 """
 
 def exo_03(liste):
-  # Selectionner une liste de nombre pairs uniquement
-  pairs = ??? 
+   # Selectionner une liste de nombre pairs uniquement
+  pairs = (98, 24, 56, 8)
   return sorted(pairs)
 
 def main():
