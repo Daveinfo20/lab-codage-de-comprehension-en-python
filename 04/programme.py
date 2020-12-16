@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: CollegeBoreal
+@author: Daveinfo20
 """
 
 def exo_04(liste):
   # Ajouter le code permettant de convertir
   # la liste en ensemble (set)
   # pensez au (set comprehension)
-  ensemble = ??? 
+  ensemble = {'College', 'College', 'Boreal', 'aimes', 'tu', 'Toronto'}
   return sorted(ensemble)
 
 def main():
